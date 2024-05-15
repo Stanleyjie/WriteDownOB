@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "66e5e74235346b86",
+        "id": "6cc363744b9a05f1",
         "type": "tabs",
         "children": [
           {
-            "id": "05f6dfebf3b0570e",
+            "id": "deb18623733219cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 341.5
   },
   "right": {
     "id": "d02059b745491970",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -134,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 351.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,8 +138,16 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "05f6dfebf3b0570e",
+  "active": "deb18623733219cb",
   "lastOpenFiles": [
+    "看似很努力，实则无结果.md",
+    "Career/KR/GYFY/微信体检预约服务器迁回大坦沙方案.md",
+    "README.md",
+    "Career/KR/GYFY",
+    "Career/KR",
+    "Career",
+    "完成比完美更重要.md",
+    "豁达与潇洒.md",
     "事情繁杂又多临时任务处理方式.md",
     "网络热词.md",
     "测试.md",
@@ -157,10 +156,8 @@
     "制定计划的方法.md",
     "markdown语法.md",
     "商君书.md",
-    "README.md",
     "取信于人.md",
     "狼来了.md",
-    "豁达与潇洒.md",
     "追求卓越.md",
     "徙木立信.md"
   ]
