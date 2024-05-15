@@ -11,8 +11,24 @@
             "id": "deb18623733219cb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "小程序后台服务器域名和业务域名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14062ee5d48ff0e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "制定计划的方法.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "小程序后台服务器域名和业务域名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "小程序后台服务器域名和业务域名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "小程序后台服务器域名和业务域名.md"
+              }
             }
           }
         ],
@@ -140,6 +160,10 @@
   },
   "active": "deb18623733219cb",
   "lastOpenFiles": [
+    "制定计划的方法.md",
+    "追求卓越.md",
+    "微信小程序后台IP白名单.md",
+    "小程序后台服务器域名和业务域名.md",
     "看似很努力，实则无结果.md",
     "Career/KR/GYFY/微信体检预约服务器迁回大坦沙方案.md",
     "README.md",
@@ -153,12 +177,10 @@
     "测试.md",
     "如何与人愉快沟通.md",
     "如何把notion的任务清单同步到滴答清单中.md",
-    "制定计划的方法.md",
     "markdown语法.md",
     "商君书.md",
     "取信于人.md",
     "狼来了.md",
-    "追求卓越.md",
     "徙木立信.md"
   ]
 }
