@@ -20,11 +20,15 @@
             }
           },
           {
-            "id": "544a6fee761c9781",
+            "id": "4446c3b581ff5797",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "如何检测某台服务器的某个端口是否有中断的情况.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "如何检测某台服务器的某个端口是否有中断的情况.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "如何检测某台服务器的某个端口是否有中断的情况.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "如何检测某台服务器的某个端口是否有中断的情况.md"
+              }
             }
           }
         ],
@@ -151,9 +159,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "544a6fee761c9781",
+  "active": "4446c3b581ff5797",
   "lastOpenFiles": [
     "复盘.md",
+    "如何检测某台服务器的某个端口是否有中断的情况.md",
     "Compress关键字.md",
     "民粹.md",
     "小程序后台服务器域名和业务域名.md",
