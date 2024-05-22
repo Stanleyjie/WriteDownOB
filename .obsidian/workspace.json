@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "091190f3ca731ed0",
+            "id": "b20a36a685c824d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "4446c3b581ff5797",
+            "id": "d9b2f0834d46b77b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "如何检测某台服务器的某个端口是否有中断的情况.md",
+                "file": "复盘.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "如何检测某台服务器的某个端口是否有中断的情况.md",
+                "file": "复盘.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "如何检测某台服务器的某个端口是否有中断的情况.md",
+                "file": "复盘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "如何检测某台服务器的某个端口是否有中断的情况.md"
+                "file": "复盘.md"
               }
             }
           }
@@ -159,9 +159,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "4446c3b581ff5797",
+  "active": "d9b2f0834d46b77b",
   "lastOpenFiles": [
+    "低效率人士的6大致命弱点.md",
     "复盘.md",
+    "ScrLK键.md",
     "如何检测某台服务器的某个端口是否有中断的情况.md",
     "Compress关键字.md",
     "民粹.md",
