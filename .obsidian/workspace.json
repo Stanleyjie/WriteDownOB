@@ -8,30 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e2fb44be08b0e8dd",
+            "id": "f94cfc1e41f4c798",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "复盘.md",
+                "file": "取信于人.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8043e4c57e2d22d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "商君书.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4324aa5ad4efd169",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "完成比完美更重要.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "f94cfc1e41f4c798",
+            "id": "4d3efa9d0454ac7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sqlserver截取字符串.md",
+                "file": "怎么加快处理问题的速度.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "复盘.md",
+                "file": "怎么加快处理问题的速度.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "复盘.md",
+                "file": "怎么加快处理问题的速度.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "复盘.md"
+                "file": "怎么加快处理问题的速度.md"
               }
             }
           }
@@ -158,36 +183,37 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "e2fb44be08b0e8dd",
+  "active": "4d3efa9d0454ac7d",
   "lastOpenFiles": [
+    "完成比完美更重要.md",
+    "怎么加快处理问题的速度.md",
+    "小程序支付功能.md",
+    "死锁.md",
+    "商君书.md",
+    "杀人放火金腰带.md",
+    "取信于人.md",
+    "民粹.md",
     "sqlserver截取字符串.md",
+    "狼来了.md",
+    "浅谈爱情.md",
+    "看似很努力，实则无结果.md",
+    "豁达与潇洒.md",
+    "低效率人士的6大致命弱点.md",
+    "复盘.md",
     "模板/笔记模板.md",
     "模板/5R笔记模板.md",
     "模板",
     "笔记模板三.md",
-    "复盘.md",
     "微信小程序后台IP白名单.md",
     "网络热词.md",
     "事情繁杂又多临时任务处理方式.md",
-    "商君书.md",
     "如何与人愉快沟通.md",
     "如何把notion的任务清单同步到滴答清单中.md",
-    "豁达与潇洒.md",
-    "看似很努力，实则无结果.md",
-    "低效率人士的6大致命弱点.md",
     "ScrLK键.md",
     "如何检测某台服务器的某个端口是否有中断的情况.md",
     "Compress关键字.md",
-    "民粹.md",
-    "小程序后台服务器域名和业务域名.md",
-    "制定计划的方法.md",
-    "追求卓越.md",
-    "Career/KR/GYFY/微信体检预约服务器迁回大坦沙方案.md",
-    "README.md",
     "Career/KR/GYFY",
     "Career/KR",
-    "Career",
-    "完成比完美更重要.md",
-    "测试.md"
+    "Career"
   ]
 }
