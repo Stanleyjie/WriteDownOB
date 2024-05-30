@@ -1,0 +1,3 @@
+```SQL
+SUBSTRING(columnName,)
+```
