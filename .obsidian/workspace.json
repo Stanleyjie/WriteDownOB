@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6cc363744b9a05f1",
+        "id": "6f6ecdf861d60a0a",
         "type": "tabs",
         "children": [
           {
-            "id": "f94cfc1e41f4c798",
+            "id": "73245bd53cb2d40f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "取信于人.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8043e4c57e2d22d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "商君书.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4324aa5ad4efd169",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "完成比完美更重要.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d3efa9d0454ac7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "怎么加快处理问题的速度.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "怎么加快处理问题的速度.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "怎么加快处理问题的速度.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "怎么加快处理问题的速度.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -183,19 +138,20 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "4d3efa9d0454ac7d",
+  "active": "73245bd53cb2d40f",
   "lastOpenFiles": [
+    "制定计划的方法.md",
+    "浅谈爱情.md",
+    "取信于人.md",
+    "商君书.md",
     "完成比完美更重要.md",
     "怎么加快处理问题的速度.md",
     "小程序支付功能.md",
     "死锁.md",
-    "商君书.md",
     "杀人放火金腰带.md",
-    "取信于人.md",
     "民粹.md",
     "sqlserver截取字符串.md",
     "狼来了.md",
-    "浅谈爱情.md",
     "看似很努力，实则无结果.md",
     "豁达与潇洒.md",
     "低效率人士的6大致命弱点.md",
@@ -211,7 +167,6 @@
     "如何把notion的任务清单同步到滴答清单中.md",
     "ScrLK键.md",
     "如何检测某台服务器的某个端口是否有中断的情况.md",
-    "Compress关键字.md",
     "Career/KR/GYFY",
     "Career/KR",
     "Career"
