@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6f6ecdf861d60a0a",
+        "id": "de5eb3d1d568a9b6",
         "type": "tabs",
         "children": [
           {
-            "id": "73245bd53cb2d40f",
+            "id": "da57e33b4c61330d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,13 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "73245bd53cb2d40f",
+  "active": "da57e33b4c61330d",
   "lastOpenFiles": [
+    "SQL连表UPDATE.md",
+    "SQL-日期转换.md",
+    "sqlserver截取字符串.md",
+    "SQL连表.md",
+    "SqlServer数据库还原后一直显示“正在还原...”解决方法.md",
     "制定计划的方法.md",
     "浅谈爱情.md",
     "取信于人.md",
@@ -150,7 +155,6 @@
     "死锁.md",
     "杀人放火金腰带.md",
     "民粹.md",
-    "sqlserver截取字符串.md",
     "狼来了.md",
     "看似很努力，实则无结果.md",
     "豁达与潇洒.md",
@@ -163,10 +167,6 @@
     "微信小程序后台IP白名单.md",
     "网络热词.md",
     "事情繁杂又多临时任务处理方式.md",
-    "如何与人愉快沟通.md",
-    "如何把notion的任务清单同步到滴答清单中.md",
-    "ScrLK键.md",
-    "如何检测某台服务器的某个端口是否有中断的情况.md",
     "Career/KR/GYFY",
     "Career/KR",
     "Career"
