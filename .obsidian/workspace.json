@@ -11,11 +11,28 @@
             "id": "da57e33b4c61330d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SQL连表UPDATE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8b77d3cd0929b08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "下里巴人.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,11 +78,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 247.5
   },
   "right": {
     "id": "d02059b745491970",
@@ -81,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "下里巴人.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "下里巴人.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "下里巴人.md"
+              }
             }
           }
         ],
@@ -126,7 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,9 +160,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "da57e33b4c61330d",
+  "active": "f8b77d3cd0929b08",
   "lastOpenFiles": [
     "SQL连表UPDATE.md",
+    "下里巴人.md",
     "SQL-日期转换.md",
     "sqlserver截取字符串.md",
     "SQL连表.md",
@@ -166,7 +189,6 @@
     "笔记模板三.md",
     "微信小程序后台IP白名单.md",
     "网络热词.md",
-    "事情繁杂又多临时任务处理方式.md",
     "Career/KR/GYFY",
     "Career/KR",
     "Career"
