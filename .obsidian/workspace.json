@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a3d820578194f328",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "刻意练习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "下里巴人.md",
+                "file": "刻意练习.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "下里巴人.md",
+                "file": "刻意练习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "下里巴人.md"
+                "file": "刻意练习.md"
               }
             }
           }
@@ -160,10 +171,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "f8b77d3cd0929b08",
+  "active": "a3d820578194f328",
   "lastOpenFiles": [
-    "SQL连表UPDATE.md",
     "下里巴人.md",
+    "刻意练习.md",
+    "SQL连表UPDATE.md",
     "SQL-日期转换.md",
     "sqlserver截取字符串.md",
     "SQL连表.md",
@@ -188,7 +200,6 @@
     "模板",
     "笔记模板三.md",
     "微信小程序后台IP白名单.md",
-    "网络热词.md",
     "Career/KR/GYFY",
     "Career/KR",
     "Career"
