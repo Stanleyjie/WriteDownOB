@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "de5eb3d1d568a9b6",
+        "id": "acfb3644f4fe1230",
         "type": "tabs",
         "children": [
           {
-            "id": "da57e33b4c61330d",
+            "id": "a048b5267fa1307d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL连表UPDATE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8b77d3cd0929b08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "下里巴人.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3d820578194f328",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "刻意练习.md",
+                "file": "笔记/死锁.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "刻意练习.md",
+                "file": "笔记/死锁.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "刻意练习.md",
+                "file": "笔记/死锁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "刻意练习.md"
+                "file": "笔记/死锁.md"
               }
             }
           }
@@ -171,35 +146,37 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "a3d820578194f328",
+  "active": "a048b5267fa1307d",
   "lastOpenFiles": [
-    "下里巴人.md",
-    "刻意练习.md",
-    "SQL连表UPDATE.md",
-    "SQL-日期转换.md",
-    "sqlserver截取字符串.md",
-    "SQL连表.md",
-    "SqlServer数据库还原后一直显示“正在还原...”解决方法.md",
-    "制定计划的方法.md",
+    "处事/复盘.md",
+    "摘抄.md",
+    "处事/金钱观.md",
+    "笔记/未命名.md",
+    "笔记/低效率人士的6大致命弱点.md",
+    "笔记/SQL-日期转换.md",
+    "笔记",
+    "处事",
+    "笔记/SQL连表.md",
+    "笔记/ScrLK键.md",
+    "笔记/刻意练习.md",
+    "笔记/制定计划的方法.md",
+    "笔记/怎么加快处理问题的速度.md",
+    "笔记/小程序支付功能.md",
+    "笔记/小程序后台服务器域名和业务域名.md",
+    "笔记/下里巴人.md",
+    "笔记/徙木立信.md",
+    "笔记/微信小程序后台IP白名单.md",
+    "笔记/死锁.md",
+    "笔记/事情繁杂又多临时任务处理方式.md",
+    "笔记/商君书.md",
+    "笔记/SQL连表UPDATE.md",
+    "笔记/sqlserver截取字符串.md",
+    "笔记/SqlServer数据库还原后一直显示“正在还原...”解决方法.md",
     "浅谈爱情.md",
-    "取信于人.md",
-    "商君书.md",
-    "完成比完美更重要.md",
-    "怎么加快处理问题的速度.md",
-    "小程序支付功能.md",
-    "死锁.md",
-    "杀人放火金腰带.md",
-    "民粹.md",
-    "狼来了.md",
-    "看似很努力，实则无结果.md",
-    "豁达与潇洒.md",
-    "低效率人士的6大致命弱点.md",
-    "复盘.md",
-    "模板/笔记模板.md",
-    "模板/5R笔记模板.md",
+    "笔记/取信于人.md",
+    "笔记/完成比完美更重要.md",
+    "笔记/杀人放火金腰带.md",
     "模板",
-    "笔记模板三.md",
-    "微信小程序后台IP白名单.md",
     "Career/KR/GYFY",
     "Career/KR",
     "Career"
