@@ -1,0 +1,8 @@
+w## 单列
+```SQL
+SELECT DISTINCT(column1) FROM TABLEA;
+```
+## 多列
+```SQL
+SELECT DISTINCT A,B,C FROM TABLEA;
+```
