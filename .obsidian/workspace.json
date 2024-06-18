@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd905a5c21a1d5e7",
+            "id": "033f6312758fcb49",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "ee0f072f58434fcd",
+            "id": "200b2f4cd20540ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "手机速记.md",
+                "file": "数据库/索引.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4dfa86164e251a5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "沙堆悖论.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 200
   },
   "right": {
     "id": "d02059b745491970",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "手机速记.md",
+                "file": "数据库/索引.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "手机速记.md",
+                "file": "数据库/索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "手机速记.md"
+                "file": "数据库/索引.md"
               }
             }
           }
@@ -147,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,15 +171,24 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "ee0f072f58434fcd",
+  "active": "802198f9157d0991",
   "lastOpenFiles": [
     "速记.md",
+    "数据库/索引.md",
+    "数据库",
+    "沙堆悖论.md",
+    "笔记/刻意练习.md",
+    "笔记/心理表征.md",
+    "一万小时定律.md",
+    "摘抄.md",
     "手机速记.md",
-    "处事/复盘.md",
     "Pasted image 20240618102858.png",
+    "模板/5R笔记模板.md",
+    "模板/知识点.md",
+    "笔记/认知心理学.md",
+    "处事/复盘.md",
     "笔记/死锁.md",
     "笔记/SQL distinct.md",
-    "摘抄.md",
     "处事/金钱观.md",
     "笔记/未命名.md",
     "笔记/低效率人士的6大致命弱点.md",
@@ -176,20 +197,12 @@
     "处事",
     "笔记/SQL连表.md",
     "笔记/ScrLK键.md",
-    "笔记/刻意练习.md",
     "笔记/制定计划的方法.md",
     "笔记/怎么加快处理问题的速度.md",
     "笔记/小程序支付功能.md",
     "笔记/小程序后台服务器域名和业务域名.md",
     "笔记/下里巴人.md",
     "笔记/徙木立信.md",
-    "笔记/微信小程序后台IP白名单.md",
-    "笔记/事情繁杂又多临时任务处理方式.md",
-    "笔记/商君书.md",
-    "笔记/SQL连表UPDATE.md",
-    "笔记/sqlserver截取字符串.md",
-    "笔记/SqlServer数据库还原后一直显示“正在还原...”解决方法.md",
-    "浅谈爱情.md",
     "模板",
     "Career/KR/GYFY",
     "Career/KR",
