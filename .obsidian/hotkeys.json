@@ -17,14 +17,6 @@
       "key": "]"
     }
   ],
-  "editor:fold-all": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "M"
-    }
-  ],
   "app:toggle-right-sidebar": [
     {
       "modifiers": [
@@ -41,6 +33,14 @@
         "Mod"
       ],
       "key": "V"
+    }
+  ],
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
     }
   ]
 }
