@@ -4,5 +4,5 @@
   "theme": "obsidian",
   "baseFontSizeAction": true,
   "baseFontSize": 15,
-  "showViewHeader": false
+  "showViewHeader": true
 }
