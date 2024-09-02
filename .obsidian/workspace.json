@@ -8,14 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d502b41d8dbd3960",
+            "id": "0d443b77f9784d9e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "速记.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b19233a0bb43e7f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "目录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94f08790667bb009",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人生战略.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "人生战略.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "人生战略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "人生战略.md"
+              }
             }
           }
         ],
@@ -153,8 +186,13 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "d502b41d8dbd3960",
+  "active": "94f08790667bb009",
   "lastOpenFiles": [
+    "目录.md",
+    "人生战略.md",
+    "学习方法.md",
+    "速记.md",
+    "手机速记.md",
     "SQL将查到的数值转换为相关的文字.md",
     "日志/2024/2024-06/2024-06-29.md",
     "日志/2024/2024-06/2024-06-28.md",
@@ -166,8 +204,6 @@
     "笔记/SQL连表UPDATE.md",
     "笔记/sqlserver截取字符串.md",
     "笔记/SqlServer数据库还原后一直显示“正在还原...”解决方法.md",
-    "速记.md",
-    "手机速记.md",
     "如何有效整理信息.md",
     "赫勒法则.md",
     "数据库/索引.md",
@@ -180,11 +216,8 @@
     "Pasted image 20240626114811.png",
     "对账需求说明.md",
     "一元化笔记法.md",
-    "Excel找到两列数据中重复的数据.md",
     "工作/未命名",
     "工作",
-    "未命名.md",
-    "待办.md",
     "日志/2024/2024-06",
     "日志/2024",
     "日志",
