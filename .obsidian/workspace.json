@@ -11,8 +11,36 @@
             "id": "ee05f3f776080692",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "零日漏洞.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6aa8c4d3f3f38a28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "安全审计.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb8a982501ba9903",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "应用最小权限原则.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "零日漏洞.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "零日漏洞.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "零日漏洞.md"
+              }
             }
           }
         ],
@@ -155,6 +187,9 @@
   },
   "active": "ee05f3f776080692",
   "lastOpenFiles": [
+    "应用最小权限原则.md",
+    "安全审计.md",
+    "零日漏洞.md",
     "目录.md",
     "人生战略.md",
     "学习方法.md",
@@ -178,11 +213,8 @@
     "工作/KR-DR-对账模块需求说明.md",
     "工作/KR-DR-对账模块异常处理需求说明.md",
     "模板/日志模板.md",
-    "模板/笔记模板.md",
     "Pasted image 20240626182352.png",
     "Pasted image 20240626114811.png",
-    "对账需求说明.md",
-    "一元化笔记法.md",
     "工作/未命名",
     "工作",
     "日志/2024/2024-06",
