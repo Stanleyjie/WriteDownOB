@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b6da006694bac241",
+        "id": "9dae9848779e654a",
         "type": "tabs",
         "children": [
           {
-            "id": "0d443b77f9784d9e",
+            "id": "ee05f3f776080692",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "速记.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b19233a0bb43e7f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "目录.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94f08790667bb009",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人生战略.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人生战略.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人生战略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "人生战略.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -186,7 +153,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "94f08790667bb009",
+  "active": "ee05f3f776080692",
   "lastOpenFiles": [
     "目录.md",
     "人生战略.md",
