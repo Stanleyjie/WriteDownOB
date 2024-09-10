@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "4cc4e8dff45995f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "行动检验真理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6aa8c4d3f3f38a28",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "零日漏洞.md",
+                "file": "行动检验真理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "零日漏洞.md",
+                "file": "行动检验真理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "零日漏洞.md"
+                "file": "行动检验真理.md"
               }
             }
           }
@@ -185,11 +198,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "ee05f3f776080692",
+  "active": "4cc4e8dff45995f3",
   "lastOpenFiles": [
+    "零日漏洞.md",
+    "行动检验真理.md",
     "应用最小权限原则.md",
     "安全审计.md",
-    "零日漏洞.md",
     "目录.md",
     "人生战略.md",
     "学习方法.md",
@@ -212,7 +226,6 @@
     "工作/KR-DR-科室需求说明.md",
     "工作/KR-DR-对账模块需求说明.md",
     "工作/KR-DR-对账模块异常处理需求说明.md",
-    "模板/日志模板.md",
     "Pasted image 20240626182352.png",
     "Pasted image 20240626114811.png",
     "工作/未命名",
