@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "283434f9a0d5cf6b",
+            "id": "37f62def63923fec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "手机速记"
-            }
-          },
-          {
-            "id": "215a0523d1caa42b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "上杠杆.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "上杠杆"
             }
           }
         ]
@@ -58,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -75,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -85,7 +71,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "书签"
             }
           }
         ]
@@ -108,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "马太效应.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 马太效应"
+              "title": "反向链接"
             }
           },
           {
@@ -127,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "马太效应.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 马太效应"
+              "title": "出链"
             }
           },
           {
@@ -147,7 +131,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           },
           {
@@ -156,24 +140,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "手机本地文件.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "手机本地文件 的大纲"
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "5730feb7e8d28f7c",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "ba7d80102ae61da3",
+            "id": "2f643c2a4aad1b7b",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -182,7 +159,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -191,30 +169,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "283434f9a0d5cf6b",
+  "active": "37f62def63923fec",
   "lastOpenFiles": [
     "上杠杆.md",
-    "手机速记.md",
-    "速记.md",
-    "Untitled.md",
-    "应用最小权限原则.md",
+    "手机本地文件.md",
     "马太效应.md",
-    "安全审计.md",
-    "零日漏洞.md",
-    "西格玛.md",
     "行动检验真理.md",
+    "零日漏洞.md",
+    "应用最小权限原则.md",
+    "安全审计.md",
     "目录.md",
     "人生战略.md",
     "学习方法.md",
+    "速记.md",
+    "手机速记.md",
     "SQL将查到的数值转换为相关的文字.md",
     "日志/2024/2024-06/2024-06-29.md",
     "日志/2024/2024-06/2024-06-28.md",
@@ -228,6 +205,7 @@
     "笔记/SqlServer数据库还原后一直显示“正在还原...”解决方法.md",
     "如何有效整理信息.md",
     "赫勒法则.md",
+    "数据库/索引.md",
     "Pasted image 20240626182352.png",
     "Pasted image 20240626114811.png",
     "工作/未命名",
