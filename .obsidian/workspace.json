@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "手机速记.md",
+                "file": "速记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "手机速记"
+              "title": "速记"
+            }
+          },
+          {
+            "id": "e3f24dd5a3912dd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发英语.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "开发英语"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -140,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "手机本地文件.md",
+                "file": "开发英语.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "手机本地文件 的大纲"
+              "title": "Outline of 开发英语"
             }
           },
           {
@@ -160,26 +175,29 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "random-note:开始漫游笔记": false,
-      "daily-notes:打开/创建今天的日记": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
     }
   },
-  "active": "37f62def63923fec",
+  "active": "e3f24dd5a3912dd3",
   "lastOpenFiles": [
+    "速记.md",
+    "开发英语.md",
+    "How to make money.md",
+    "手机速记.md",
     "上杠杆.md",
     "手机本地文件.md",
     "马太效应.md",
@@ -190,8 +208,6 @@
     "目录.md",
     "人生战略.md",
     "学习方法.md",
-    "速记.md",
-    "手机速记.md",
     "SQL将查到的数值转换为相关的文字.md",
     "日志/2024/2024-06/2024-06-29.md",
     "日志/2024/2024-06/2024-06-28.md",
@@ -204,8 +220,6 @@
     "笔记/sqlserver截取字符串.md",
     "笔记/SqlServer数据库还原后一直显示“正在还原...”解决方法.md",
     "如何有效整理信息.md",
-    "赫勒法则.md",
-    "数据库/索引.md",
     "Pasted image 20240626182352.png",
     "Pasted image 20240626114811.png",
     "工作/未命名",
