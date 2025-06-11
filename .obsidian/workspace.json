@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f409a925e57f460e",
+            "id": "b873db108eb2e8e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "草稿.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发英语.md",
+                "file": "待解决问题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 开发英语"
+              "title": "Outline of 待解决问题"
             }
           },
           {
@@ -177,35 +177,35 @@
       "random-note:Open random note": false
     }
   },
-  "active": "f409a925e57f460e",
+  "active": "b873db108eb2e8e5",
   "lastOpenFiles": [
-    "普检方案评估.md",
-    "开发英语.md",
-    "草稿.md",
-    "逻辑.md",
-    "上游API.md",
-    "20250525.md",
-    "达瑞非病原订单快速下单方案评估.pdf",
-    "非病原快速收款方案.md",
-    "达瑞-非病原订单快速收费方案.md",
-    "贵州-侗寨.md",
+    "1目录.md",
+    "认知心理学.md",
+    "一万小时定律.md",
+    "一元化笔记法.md",
+    "小程序支付功能.md",
+    "小程序后台服务器域名和业务域名.md",
+    "狼来了.md",
+    "沙堆悖论.md",
+    "民粹.md",
+    "死锁.md",
     "手机速记.md",
+    "赫勒法则.md",
+    "追求卓越.md",
     "速记.md",
-    "How to make money.md",
-    "上杠杆.md",
-    "手机本地文件.md",
+    "逻辑.md",
     "马太效应.md",
-    "行动检验真理.md",
     "零日漏洞.md",
-    "应用最小权限原则.md",
-    "安全审计.md",
-    "目录.md",
-    "人生战略.md",
-    "学习方法.md",
-    "SQL将查到的数值转换为相关的文字.md",
-    "日志/2024/2024-06/2024-06-29.md",
-    "日志/2024/2024-06/2024-06-28.md",
-    "日志/2024/2024-06/2024-06-27.md",
+    "金钱观.md",
+    "ScrLK键.md",
+    "markdown语法.md",
+    "README.md",
+    "IIS相关.md",
+    "How to make money.md",
+    "草稿.md",
+    "20250525.md",
+    "5R笔记模板.md",
+    "达瑞非病原订单快速下单方案评估.pdf",
     "Pasted image 20240626182352.png",
     "Pasted image 20240626114811.png",
     "工作/未命名",
